@@ -1,0 +1,25 @@
+{
+  "name": "Musicly \u2014 Local Music Player",
+  "short_name": "Musicly",
+  "description": "A premium local music player.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090b09",
+  "theme_color": "#090b09",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
